@@ -1,2 +1,3 @@
 #Instruccion para ignorar el archivo "ignorado.txt"
 *ignorado.txt
+*.exe
