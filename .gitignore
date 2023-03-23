@@ -1,3 +1,27 @@
-#Instruccion para ignorar el archivo "ignorado.txt"
-*ignorado.txt
+# Created by https://www.toptal.com/developers/gitignore/api/text,executable
+# Edit at https://www.toptal.com/developers/gitignore?templates=text,executable
 
+### Executable ###
+*.app
+*.bat
+*.cgi
+*.com
+*.exe
+*.gadget
+*.jar
+*.pif
+*.vb
+*.wsf
+
+### Text ###
+*.doc
+*.docx
+*.log
+*.msg
+*.pages
+*.rtf
+*.txt
+*.wpd
+*.wps
+
+# End of https://www.toptal.com/developers/gitignore/api/text,executable
